@@ -1,9 +1,12 @@
-body{
+
+
+
+body {
     text-align: center;
-    background: #123;
+    background: #fff;
 }
-#mycanvas {
-    background: #123;
+#my-canvas {
+    background: #fff;
     margin-left: 10px;
     margin-top: 10px;
 }
